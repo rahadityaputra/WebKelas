@@ -1,0 +1,61 @@
+.container {
+    width: 800px;
+    background-color: black;
+    margin:  auto;
+    color: white;    
+}
+
+.container .header {
+    font-size: 20px;
+    background-color: rgb(138, 66, 66);
+}
+
+.container .header h1 {
+    padding: 40px;
+    font: 50px Verdana;
+    text-align: center;
+}
+
+.container .navigasi {
+    margin: 20px;
+}
+
+.container .navigasi ul li  {
+    display: inline;
+    margin-right: 20px;
+}
+
+.container .navigasi ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-family: Verdana;
+}
+
+.container .navigasi ul li a:hover {
+    background-color: rgb(227, 5, 5);
+}
+
+.container .gambar img {
+    width: 800px;
+}
+
+.container .main {
+    padding: 50px;
+    font: 20px Georgia;
+}
+
+.container .main h2 {
+    font-size: 30px;
+}
+
+.container .main p, h2 {
+    margin-bottom: 20px ;
+}
+
+.container .footer {
+    background-color: rgb(138, 66, 66);
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
