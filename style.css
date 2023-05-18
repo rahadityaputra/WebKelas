@@ -53,6 +53,24 @@
     margin-bottom: 20px ;
 }
 
+.container .main .artikel {
+    float: left;
+    width: 500px;
+}
+
+.container .main .sidebar {
+    float: right;
+    width: 300px;
+    border: 1px solid white;
+    padding: 20px;
+    
+}
+
+.container .main .sidebar img {
+    width: 100px;
+    float: left;
+    margin: 10px;
+}
 .container .footer {
     background-color: rgb(138, 66, 66);
     color: white;
