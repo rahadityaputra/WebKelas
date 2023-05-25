@@ -70,7 +70,8 @@
 
 .container .main {
     padding: 50px;
-    font: 20px Georgia;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
 }
 
 .container .main h2 {
