@@ -20,13 +20,15 @@
 
 .container .header {
     font-size: 20px;
-    background-color: rgb(138, 66, 66);
+    background-color: rgb(47, 162, 32);
 }
 
 .container .header h1 {
     padding: 40px;
-    font: 50px Verdana;
-    text-shadow: 5px 5px 5px black;
+    color: white;
+    font: 50px Montserrat;
+    text-shadow: 5px 5px 5px rgb(44, 140, 62);
+    font-weight: bold;
     text-align: center;
     height: 300px;
 }
@@ -35,8 +37,11 @@
     position: absolute;
     top: 100px;
     right: 380px;
+    color:  rgb(47, 162, 32); ;
     display: inline-block;
-    text-indent: 3000px;
+    /* z-index: -9; */
+    /* text-indent: 3000px; */
+    
     background-repeat: no-repeat;
     width: 200px;
     height: 200px;
