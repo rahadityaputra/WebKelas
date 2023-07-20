@@ -1,10 +1,8 @@
 
 
 .container  {
-    width: 100%;
     background-color: black;
     color: white;
-    position: relative;
 }
 
 .container .header {
@@ -23,26 +21,6 @@
 
 .container .header a {
     display: none;
-}
-
-.container .navigasi {
-    margin: 20px;
-}
-
-.container .navigasi ul li {
-    margin-bottom: 30px;
-
-}
-
-.container .navigasi ul li a {
-    text-decoration: none;
-    color: white;
-    padding: 10px;
-    font-family: Verdana;
-}
-
-.container .navigasi ul li a:hover {
-    background-color: rgb(227, 5, 5);
 }
 
 .container .gambar img {
